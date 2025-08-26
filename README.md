@@ -18,6 +18,6 @@ A Convolutional Neural Network (CNN) implemented in PyTorch to recognize 7 basic
 - Test: 3,589 images
 
    <p align="center">
-   <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D1119122627&psig=AOvVaw2UmSNLZg4-L34WxhRQZ2S8&ust=1756297668039000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiv-ua8qI8DFQAAAAAdAAAAABAL">
+   <img width="460" height="300" src="https://images.steamusercontent.com/ugc/853850382734842718/CF3080C4459B40AA450C3ADCA07E52A6E7B9F3CA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
    </p>
 
