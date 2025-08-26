@@ -18,4 +18,7 @@ A Convolutional Neural Network (CNN) implemented in PyTorch to recognize 7 basic
 - Test: 3,589 images
 
 
+   <p align="center">
+   <img width="460" height="300" src="https://miro.medium.com/1*CA1iwRLx0lTNr4bBiregsA.gif">
+   </p>
 
