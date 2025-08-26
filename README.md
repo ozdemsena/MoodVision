@@ -19,6 +19,6 @@ A Convolutional Neural Network (CNN) implemented in PyTorch to recognize 7 basic
 
 
    <p align="center">
-   <img width="460" height="https://i.pinimg.com/originals/3f/c6/7b/3fc67b0b4ce11f964ef31e58c593addf.gif">
+   <img width="460" height="https://media.tenor.com/0X3IVRg6kMsAAAAM/balls.gif">
    </p>
 
