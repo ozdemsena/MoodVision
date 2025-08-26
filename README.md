@@ -17,8 +17,7 @@ A Convolutional Neural Network (CNN) implemented in PyTorch to recognize 7 basic
 - Validation: 3,589 images
 - Test: 3,589 images
 
-
    <p align="center">
-   <img width="460" height="https://media.tenor.com/0X3IVRg6kMsAAAAM/balls.gif">
+   <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcalcifer-ghibli-gifs&psig=AOvVaw1uOehthyakqBdJtoEARFjW&ust=1756297130341000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDAt_C6qI8DFQAAAAAdAAAAABBX">
    </p>
 
