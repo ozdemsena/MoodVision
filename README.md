@@ -13,6 +13,7 @@ A Convolutional Neural Network (CNN) implemented in PyTorch to recognize 7 basic
 
 ## Dataset
 - FER-2013 Dataset (Kaggle): 48x48 grayscale images
+-  https://www.kaggle.com/datasets/deadskull7/fer2013?select=fer2013.csv
 - Training: 28,709 images
 - Validation: 3,589 images
 - Test: 3,589 images
